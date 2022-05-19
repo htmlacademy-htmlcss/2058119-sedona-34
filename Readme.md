@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/34/user/2058119).
+* Студент: [Каменская Тамара](https://up.htmlacademy.ru/htmlcss/34/user/2058119).
 * Наставник: [Виктория Куликова] (https://htmlacademy.ru/profile/id293745)
 
 ---
